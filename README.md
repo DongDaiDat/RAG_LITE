@@ -1,4 +1,4 @@
-# RAG-Lite: Local & High-Precision Retrieval-Augmented Generation
+# RAG-Lite: Local & High-Precision Retrieval-Augmented Generation!
 
 **RAG-Lite** là thư viện/hệ thống RAG (Retrieval-Augmented Generation) mô-đun hóa, nhẹ và tối ưu hóa cao cho việc tra cứu thông tin chính xác từ văn bản phức tạp (tài liệu pháp lý, hợp đồng, cơ sở dữ liệu sản phẩm, quản lý kho hàng).
 
